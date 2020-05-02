@@ -1,0 +1,23 @@
+{
+  "name": "applicationlogin",
+  "version": "1.0.0",
+  "description": "auth0,swagger,sonarQube,eslint,Joi,middlewares,Mocha unit test",
+  "main": "app.js",
+  "dependencies": {
+    "eslint": "^6.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivanshSachdeva/Application-Login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivanshSachdeva/Application-Login/issues"
+  },
+  "homepage": "https://github.com/DivanshSachdeva/Application-Login#readme"
+}
